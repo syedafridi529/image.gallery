@@ -1,7 +1,5 @@
 # My Image Gallery Website
 
-![Project Logo](url_to_your_logo.png)
-
 ## Description
 
 Welcome to my Image Gallery Website! This project is a simple yet effective way to showcase and share images in a visually appealing manner. Whether you're a photographer looking to display your portfolio or just someone who wants to create a digital album, this website has got you covered.
@@ -11,13 +9,6 @@ Welcome to my Image Gallery Website! This project is a simple yet effective way 
 - **Responsive Design:** The website is designed to work seamlessly on various devices, from desktops to smartphones.
 - **Intuitive Navigation:** Users can easily navigate through the image gallery with a user-friendly interface.
 - **Customizable:** Easily add, remove, or update images in your gallery by modifying the HTML files.
-
-## Screenshots
-
-Include some screenshots or GIFs of your website to give users a quick preview.
-
-![Screenshot 1](url_to_screenshot1.png)
-![Screenshot 2](url_to_screenshot2.png)
 
 ## Getting Started
 
