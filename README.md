@@ -28,13 +28,6 @@ Welcome to my Image Gallery Website! This project is a simple yet effective way 
 2. Update the HTML files to include the new images in the gallery.
 3. Customize the CSS to match your preferred styling.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
